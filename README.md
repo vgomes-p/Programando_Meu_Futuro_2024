@@ -6,7 +6,7 @@
 </tr>
 <tr><td>
 
-| [![Calculator](badge/nws_calculator.png "Calculator")](https://github.com/vgomes-p/programando_meu_futuro) | [![Guess a Number](badge/nws_guest_game.png "Guess a Number")](https://github.com/vgomes-p/programando_meu_futuro) |
+| [![Calculator](badges/nws_calculator.png "Calculator")](https://github.com/vgomes-p/programando_meu_futuro) | [![Guess a Number](badges/nws_guest_game.png "Guess a Number")](https://github.com/vgomes-p/programando_meu_futuro) |
 | :-: | :-: |
 | Calculator | Guess a Number |
 
@@ -35,7 +35,7 @@
 </tr>
 <tr><td>
 
-| [![Reload](badge/reload_pool.png "Piscine_reload")](https://github.com/vgomes-p/piscine_reload-42) |
+| [![Reload](badges/reload_pool.png "Piscine_reload")](https://github.com/vgomes-p/piscine_reload-42) |
 | :-: |
 | Piscine Reload |
 
@@ -53,27 +53,27 @@
 </tr>
 <tr><td>
 
-| [![Libft](badge/libft.png "libft")](https://github.com/vgomes-p/libft-42) |
+| [![Libft](badges/libft.png "libft")](https://github.com/vgomes-p/libft-42) |
 | :-: |
 | Libft |
 | 100% |
 
-| [![GNL](badge/gnl.png "get next line")](https://github.com/vgomes-p/get_next_line-42) | [![Pipex](badge/pipex.png "pipex")](https://github.com/vgomes-p/pipex-42) |
+| [![GNL](badges/gnl.png "get next line")](https://github.com/vgomes-p/get_next_line-42) | [![Pipex](badges/pipex.png "pipex")](https://github.com/vgomes-p/pipex-42) |
 | :-: | :-: |
 | Get Next Line | Pipex |
 | 100% | 100% |
 
-| [![So Long](badge/so_long.png "so Long")](https://github.com/vgomes-p/so_long-42) |
+| [![So Long](badges/so_long.png "so Long")](https://github.com/vgomes-p/so_long-42) |
 | :-: |
 | So Long |
 | 100% |
 
-| [![Minishell](badge/minishell.png "minishell")](https://github.com/vgomes-p/minishell-42) |
+| [![Minishell](badges/minishell.png "minishell")](https://github.com/vgomes-p/minishell-42) |
 | :-: |
 | Minishell |
 | 100% |
 
-| [![Exam](badge/zip_exam.png "zip exam")](https://github.com/vgomes-p/ExamZip-42) | [![Mobile](badge/mobile.png "Piscine Mobile")](https://github.com/vgomes-p/piscine-mobile-42) |
+| [![Exam](badges/zip_exam.png "zip exam")](https://github.com/vgomes-p/ExamZip-42) | [![Mobile](badges/mobile.png "Piscine Mobile")](https://github.com/vgomes-p/piscine-mobile-42) |
 | :-: | :-: |
 | Zip Exam | Piscine Mobile |
 | 80% | 100% |
@@ -88,7 +88,7 @@
 </tr>
 <tr><td>
 
-| [![Python Immersion](badge/pyimmersion.png "Python Immersion")](https://github.com/vgomes-p/pythonimmersion-42) |
+| [![Python Immersion](badges/pyimmersion.png "Python Immersion")](https://github.com/vgomes-p/pythonimmersion-42) |
 | :-: |
 | Python Immersion |
 
@@ -101,7 +101,7 @@
 </tr>
 <tr><td>
 
-| [![Co.labs](badge/co.labs.png "co.labs")](https://www.linkedin.com/in/vinied-gpereira/) |
+| [![Co.labs](badges/co.labs.png "co.labs")](https://www.linkedin.com/in/vinied-gpereira/) |
 | :-: |
 | Co.labs Natura |
 
