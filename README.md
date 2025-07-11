@@ -126,7 +126,7 @@ So Long is a project that challenges students to create a simple 2D game. The go
 
 <h2 id="minishell"> Minishell </h2>
 <img align="left" alt="Minishell" src="badges/minishell.png"  width="150px"/>
-Minishell was the most challenging project in my pathway. It involved developing a simple Unix shell. Although it was a group project, I completed almost the entire project on my own, as my partner contributed very little (just two lines of code). This project connected all the concepts I had learned in previous projects and greatly improved my software architecture and development skills. It also helped me develop soft skills such as handling pressure, resilience, and time management.
+Minishell was the most challenging project in my pathway. It involved developing a simple Unix shell. Although it was designed as a group project, I completed it independently, taking full ownership from start to finish. This project connected all the concepts I had learned in previous projects and greatly improved my software architecture and development skills. It also helped me grow soft skills such as handling pressure, resilience, and time management.
 
 [![Button](https://img.shields.io/badge/See%20project-red?style=for-the-badge)](https://github.com/vgomes-p/minishell-42)
 
