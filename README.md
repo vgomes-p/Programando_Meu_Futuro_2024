@@ -80,7 +80,8 @@ Here you’ll find my journey throughout the PMF program — enjoy exploring it!
 
 
 # 42 Zip Course
-> After being accepted from the Piscine, I started the **42 Zip** courses. What sets Zip apart from the **Common Core** is that we didn’t have multiple milestones — actually, there was **only one milestone** lasting **eight months** — and we had to complete **six projects** plus **one exam**. The Programming pathway consisted of the following projects: Libft, Get Next Line, So Long / FDF / Fractol, Pipex / Minitalk, Minishell, the Exam, and Mobile. _[Note: This description covers the Programming pathway only — I’m not including the Systems and Networks pathway here.]_ This was the path I followed during my time at 42:
+> After being accepted from the Piscine, I started the **42 Zip** courses. What sets Zip apart from the **Common Core** is that we didn’t have multiple milestones — actually, there was **only one milestone** lasting **eight months** — and we had to complete **six projects** plus **one exam**. The Programming pathway consisted of the following projects: Libft, Get Next Line, So Long / FDF / Fractol, Pipex / Minitalk, Minishell, the Exam, and Mobile. _[Note: This description covers the Programming pathway only — I’m not including the Systems and Networks pathway here.]_
+This was the path I followed during my time at 42:
 
 <h2 id="reload"> Piscine Reload </h2>
 <img align="left" alt="Piscine Reload" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s"  width="150px"/>
