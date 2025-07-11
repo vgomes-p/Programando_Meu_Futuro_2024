@@ -84,8 +84,7 @@ Here you’ll find my journey throughout the PMF program — enjoy exploring it!
 
 <h2 id="reload"> Piscine Reload </h2>
 <img align="left" alt="Piscine Reload" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s"  width="150px"/>
-Piscine Reload was a warm-up for the courses. Here, we had to redo some of the projects from the C Piscine, but with new requirements and additional limitations.
-A score of 50 was required to pass this project, and I scored 51 — after five attempts.
+Piscine Reload served as a warm-up for the upcoming courses. In this phase, I was required to rebuild several projects from the original C Piscine, but with added requirements and stricter limitations that prepared me for what was to come. A score of 50 out of 100 was needed to pass. After submitting five retries, I finally achieved 51/100 and was able to move forward.
 
 [![Button](https://img.shields.io/badge/See%20project-red?style=for-the-badge)](https://github.com/vgomes-p/piscine_reload-42)
 
