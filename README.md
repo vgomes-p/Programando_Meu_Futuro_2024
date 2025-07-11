@@ -41,18 +41,33 @@
   <img alt="Co.lab" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s" width="75px"/>
 </a>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The **Programando Meu Futuro** (Programming My Future) is a project created by **Natura**, funded through the **Crer Para Ver** initiative, which aims to introduce children of Natura’s Beauty Consultants from low-income backgrounds to the tech job market.
 
+The program started in 2023 in partnership with New School and continued until 2025 with 42 São Paulo. It was structured in four phases:
+
+1. Application [mid 2023]
+
+2. Basic Introduction to Programming with New School [late 2023 - early 2024]
+
+3. Introduction to a Software Engineering Career Path with 42 São Paulo [mid 2024 - early 2025]
+
+4. Work Experience at Natura’s Office (NASP) in São Paulo [mid 2025]
+
+Each phase had its own filtering process, meaning that participants had to meet certain requirements or complete challenges to move forward. There was no fixed number of slots — whoever met the criteria progressed to the next phase.
+
+In the first phase, around 5,000 applications were submitted. By the final phase — before the final hiring step — only 28 students remained, which represents about 0.56% of the initial applicants.
+
+Here you’ll find my journey throughout the PMF program — enjoy exploring it!
 
 # Start Tech | New School
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> Start Tech was the introductory course I took on the New School app. It gave me my first real contact with programming and covered basic concepts using Python. Through this course, I learned how programming works in practice and how code is present in our daily lives — from sending a WhatsApp message to a friend to paying a bill online.
 
 | [![Calculator](badges/nws_calculator.png "Calculator")](https://github.com/vgomes-p/programando_meu_futuro) | [![Guess a Number](badges/nws_guest_game.png "Guess a Number")](https://github.com/vgomes-p/programando_meu_futuro) |
 | :-: | :-: |
 | Calculator | Guess a Number |
 
 # 42 C Piscine Process
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> **C Piscine** was the selection process to study at **42 São Paulo**. Before that, I had to complete a course on the New School app, participate in an online meeting where the 42 program was explained, pass some games, and get selected through an applicant draw. The Piscine was a **4-week intensive immersion** where I had to learn **Shell scripting** and **basic C programming**, interact with other candidates, and actively participate in the community. It was a great experience, but I won’t share my code here because future Pisciners need to complete the challenges on their own (if you are a pisciner, I believe in you, **trust the process**).
 
 <table><tr><th>C Piscine</th></tr><tr><td>
 
@@ -65,11 +80,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 # 42 Zip Course
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> After being accepted from the Piscine, I started the **42 Zip** courses. What sets Zip apart from the **Common Core** is that we didn’t have multiple milestones — actually, there was **only one milestone** lasting **eight months** — and we had to complete **six projects** plus **one exam**. The Programming pathway consisted of the following projects: Libft, Get Next Line, So Long / FDF / Fractol, Pipex / Minitalk, Minishell, the Exam, and Mobile. _[Note: This description covers the Programming pathway only — I’m not including the Systems and Networks pathway here.]_ This was the path I followed during my time at 42:
 
 <h2 id="reload"> Piscine Reload </h2>
 <img align="left" alt="Piscine Reload" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s"  width="150px"/>
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Piscine Reload was a warm-up for the courses. Here, we had to redo some of the projects from the C Piscine, but with new requirements and additional limitations.
+A score of 50 was required to pass this project, and I scored 51 — after five attempts.
 
 [![Button](https://img.shields.io/badge/See%20project-red?style=for-the-badge)](https://github.com/vgomes-p/piscine_reload-42)
 
