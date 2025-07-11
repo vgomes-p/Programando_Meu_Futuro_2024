@@ -2,7 +2,7 @@
 
 ### Quick access
 <a href="https://github.com/vgomes-p/piscine_reload-42" target="_blank">
-  <img alt="Piscine Reload" src="badges/reload_pool.png" width="75px"/>
+  <img alt="Piscine Reload" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s" width="75px"/>
 </a>
 
 <a href="https://github.com/vgomes-p/libft-42" target="_blank">
@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://github.com/vgomes-p/ExamZip-42" target="_blank">
-  <img alt="Exam Zip" src="badges/zip_exam.png" width="75px"/>
+  <img alt="Exam Zip" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s" width="75px"/>
 </a>
 
 <a href="https://github.com/vgomes-p/piscine-mobile-42" target="_blank">
@@ -38,7 +38,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/vinied-gpereira/" target="_blank">
-  <img alt="Co.lab" src="badges/co.labs.png" width="75px"/>
+  <img alt="Co.lab" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s" width="75px"/>
 </a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -68,7 +68,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <h2> Piscine Reload </h2>
-<img align="left" alt="Piscine Reload" src="badges/reload_pool.png"  width="150px"/>
+<img align="left" alt="Piscine Reload" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s"  width="150px"/>
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 [![Button](https://img.shields.io/badge/See%20project-red?style=for-the-badge)](https://github.com/vgomes-p/piscine_reload-42)
@@ -116,7 +116,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <div style="clear: both;"></div>
 
 <h2> Zip Exam </h2>
-<img align="left" alt="Zip Exam" src="badges/zip_exam.png"  width="150px"/>
+<img align="left" alt="Zip Exam" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s"  width="150px"/>
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 [![Button](https://img.shields.io/badge/See%20project-red?style=for-the-badge)](https://github.com/vgomes-p/ExamZip-42)
@@ -146,7 +146,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 <h2> Co.Lab @ Natura </h2>
-<img align="left" alt="Python Immersion" src="badges/co.labs.png"  width="150px"/>
+<img align="left" alt="Python Immersion" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s"  width="150px"/>
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
 [![Button](https://img.shields.io/badge/View%20LinkedIn-red?style=for-the-badge)]([https://github.com/vgomes-p/pythonimmersion-42](https://www.linkedin.com/in/vinied-gpereira/))
