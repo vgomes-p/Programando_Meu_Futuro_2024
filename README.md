@@ -94,7 +94,7 @@ Piscine Reload served as a warm-up for the upcoming courses. In this phase, I wa
 
 <h2 id="libft"> Libft </h2>
 <img align="left" alt="Libft" src="badges/libft.png"  width="150px"/>
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Libft is a custom library of C functions I created. This project aims to recreate functions from the C standard library and implement additional ones useful for future projects. Once approved, it remains open for students to add new functions they develop throughout their journey at 42. This project helps students improve skills like problem-solving, memory management, and understanding how C works at a low level.
 
 [![Button](https://img.shields.io/badge/See%20project-red?style=for-the-badge)](https://github.com/vgomes-p/libft-42)
 
@@ -102,7 +102,7 @@ Piscine Reload served as a warm-up for the upcoming courses. In this phase, I wa
 
 <h2 id="gnl"> Get Next Line </h2>
 <img align="left" alt="Get Next Line" src="badges/gnl.png"  width="150px"/>
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Get Next Line is a function that reads a file one line at a time. This project’s main goal is to practice buffer manipulation, memory management, and performance optimization for sequential file reading. It helped me become more comfortable working with header (.h) files and dynamic memory, and provided an introduction to how buffers and file descriptors work.
 
 [![Button](https://img.shields.io/badge/See%20project-red?style=for-the-badge)](https://github.com/vgomes-p/get_next_line-42)
 
@@ -110,7 +110,7 @@ Piscine Reload served as a warm-up for the upcoming courses. In this phase, I wa
 
 <h2 id="pipex"> Pipex </h2>
 <img align="left" alt="Pipex" src="badges/pipex.png"  width="150px"/>
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Pipex is a project that replicates the shell’s pipe process. It connects the output of one command to the input of another, allowing chained execution of processes. Through this project, I deepened my understanding of file descriptors and process execution. It was also my first project working with multiple directories which served as an introduction to software architecture.
 
 [![Button](https://img.shields.io/badge/See%20project-red?style=for-the-badge)](https://github.com/vgomes-p/pipex-42)
 
@@ -118,7 +118,7 @@ Piscine Reload served as a warm-up for the upcoming courses. In this phase, I wa
 
 <h2 id="so-long"> So Long </h2>
 <img align="left" alt="So Long" src="badges/so_long.png"  width="150px"/>
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+So Long is a project that challenges students to create a simple 2D game. The goal is to develop graphics skills and game logic. We used the MinilibX library, provided by 42, to render graphics and interact with the player. The game involves controlling a character, collecting items, and reaching the map’s exit. Through this project, I learned about structures in C and improved my software architecture skills.
 
 [![Button](https://img.shields.io/badge/See%20project-red?style=for-the-badge)](https://github.com/vgomes-p/so_long-42)
 
@@ -126,7 +126,7 @@ Piscine Reload served as a warm-up for the upcoming courses. In this phase, I wa
 
 <h2 id="minishell"> Minishell </h2>
 <img align="left" alt="Minishell" src="badges/minishell.png"  width="150px"/>
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+Minishell was the most challenging project in my pathway. It involved developing a simple Unix shell. Although it was a group project, I completed almost the entire project on my own, as my partner contributed very little (just two lines of code). This project connected all the concepts I had learned in previous projects and greatly improved my software architecture and development skills. It also helped me develop soft skills such as handling pressure, resilience, and time management.
 
 [![Button](https://img.shields.io/badge/See%20project-red?style=for-the-badge)](https://github.com/vgomes-p/minishell-42)
 
@@ -134,7 +134,7 @@ Piscine Reload served as a warm-up for the upcoming courses. In this phase, I wa
 
 <h2 id="exam"> Zip Exam </h2>
 <img align="left" alt="Zip Exam" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s"  width="150px"/>
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+The exam for 42 Zip was a single test, unlike the Common Core which has multiple milestones. It consisted of 10 levels (10 questions), but only required a score of 80 out of 100 to pass — while all other projects required a perfect 100. This exam also marked the moment I began to stop doubting myself and truly believe in what I had learned, since I was able to understand and develop exactly what each subject was asking for.
 
 [![Button](https://img.shields.io/badge/See%20project-red?style=for-the-badge)](https://github.com/vgomes-p/ExamZip-42)
 
