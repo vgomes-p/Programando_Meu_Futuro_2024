@@ -1,4 +1,3 @@
-![Cover](badges/42.png)
 # [WIP] Programando Meu Futuro | Work in Progress
 
 ### Quick access
@@ -81,6 +80,7 @@ Here you’ll find my journey throughout the PMF program — enjoy exploring it!
 
 
 # 42 Zip Course
+![Cover](badges/42.png)
 > After being accepted from the Piscine, I started the **42 Zip** courses. What sets Zip apart from the **Common Core** is that we didn’t have multiple milestones — actually, there was **only one milestone** lasting **eight months** — and we had to complete **six projects** plus **one exam**. The Programming pathway consisted of the following projects: Libft, Get Next Line, So Long / FDF / Fractol, Pipex / Minitalk, Minishell, the Exam, and Mobile. _[Note: This description covers the Programming pathway only — I’m not including the Systems and Networks pathway here.]_
 
 This was the path I followed during my time at 42:
