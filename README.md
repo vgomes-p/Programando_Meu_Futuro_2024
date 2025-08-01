@@ -1,3 +1,4 @@
+![Cover](badges/42.png)
 # [WIP] Programando Meu Futuro | Work in Progress
 
 ### Quick access
