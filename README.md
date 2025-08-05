@@ -55,7 +55,7 @@ The program started in 2023 in partnership with New School and continued until 2
 
 Each phase had its own filtering process, meaning that participants had to meet certain requirements or complete challenges to move forward. There was no fixed number of slots — whoever met the criteria progressed to the next phase.
 
-In the first phase, around 5,000 applications were submitted. By the final phase — before the final hiring step — only 28 students remained, which represents about 0.56% of the initial applicants.
+In the first phase, around 13,000 applications were submitted. By the final phase — before the final hiring step — only 27 students remained, which represents about 0.2% of the initial applicants.
 
 Here you’ll find my journey throughout the PMF program — enjoy exploring it!
 
@@ -170,4 +170,5 @@ The exam for 42 Zip was a single test, unlike the Common Core which has multiple
 [![Button](https://img.shields.io/badge/View%20LinkedIn-red?style=for-the-badge)]([https://github.com/vgomes-p/pythonimmersion-42](https://www.linkedin.com/in/vinied-gpereira/))
 
 <div style="clear: both;"></div>
+
 
