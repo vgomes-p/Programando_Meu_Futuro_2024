@@ -167,8 +167,9 @@ The exam for 42 Zip was a single test, unlike the Common Core which has multiple
 <img align="left" alt="Python Immersion" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdwXtAOL0wCTsYOlr33hJX33swJ5ItWUmeRA&s"  width="150px"/>
 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
-[![Button](https://img.shields.io/badge/View%20LinkedIn-red?style=for-the-badge)]([https://github.com/vgomes-p/pythonimmersion-42](https://www.linkedin.com/in/vinied-gpereira/))
+[![Button](https://img.shields.io/badge/View%20LinkedIn-red?style=for-the-badge)]([https://github.com/vgomes-p/pythonimmersion-42](https://www.linkedin.com/posts/activity-7374533185164103680-Z1o-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbrftEBqf57UAqhCt7puHTQ5v49auQSx0A))
 
 <div style="clear: both;"></div>
+
 
 
