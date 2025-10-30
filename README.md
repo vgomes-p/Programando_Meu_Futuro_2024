@@ -1,4 +1,4 @@
-# Programando Meu Futuro | Work in Progress
+# Programando Meu Futuro
 
 ### Quick access
 <a href="#reload" target="_blank">
@@ -180,6 +180,7 @@ At Natura, I was assigned to the Google Workspace Adoption and Continuous Improv
 [![Button](https://img.shields.io/badge/View%20LinkedIn-red?style=for-the-badge)](https://www.linkedin.com/posts/activity-7374533185164103680-Z1o-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADbrftEBqf57UAqhCt7puHTQ5v49auQSx0A)
 
 <div style="clear: both;"></div>
+
 
 
 
